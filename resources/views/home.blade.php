@@ -845,7 +845,7 @@
                             <div class="content-holder">
                                 <a class="img-popup" href="assets/imgs/privado-12.jpg"></a>
                                 <div class="text-holder">
-                                    <h6 class="title">PRIVADOS</h6>
+                                    <h6 class="title">PRIVADOS.</h6>
                                     {{-- <p class="subtitle">Expedita corporis doloremque velit in totam!</p> --}}
                                 </div>
                             </div>
